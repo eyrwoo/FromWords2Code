@@ -1,0 +1,6 @@
+### Description:
+```python
+{{ prompt }}
+```
+### Instructions:
+Write a python code for the problem. DO NOT generate any test cases or descriptions. Package your code in ```python ... ```.

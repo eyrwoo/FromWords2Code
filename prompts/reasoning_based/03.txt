@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Write sub-tasks for the problem. DO NOT generate any solution or test cases. Package your response in ```plaintext ... ```.

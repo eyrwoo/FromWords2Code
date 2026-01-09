@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Write a python code for the problem. DO generate code only without any test cases or descriptions. Package your response in ```python ... ```.

@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Write a python code for the problem. Write a code given in a natural, human-like manner. DO NOT generate any test cases or descriptions. Package your code in ```python ... ```.

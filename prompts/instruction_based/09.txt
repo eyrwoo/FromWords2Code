@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Your task is to write a python code for the problem. You must generate code only without test cases or descriptions. Package your response in ```python ... ```.

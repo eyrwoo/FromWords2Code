@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Write the list of what information you should consider to solve this problem. DO NOT generate any solution or test cases. Package your response in ```plaintext ... ```.

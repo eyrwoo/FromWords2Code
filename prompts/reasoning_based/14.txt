@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+From now on, ask me questions until you have enough information to write python code. DO NOT generate any solution or test cases. Package your response in ```plaintext ... ```.

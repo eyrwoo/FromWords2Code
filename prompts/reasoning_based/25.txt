@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+Write requirements that the model must follow to solve the problem. DO NOT generate any solution or test cases. Package your response in ```plaintext ... ```.

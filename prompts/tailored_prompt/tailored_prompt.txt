@@ -1,0 +1,5 @@
+```python
+{{ prompt }}
+```
+
+First, define the objectives to solve the problem, and then write the Python code based on them. Package your code in ```python ... ```.
