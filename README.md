@@ -25,10 +25,9 @@ Please cite our work if you use these prompts:
 ```bibtex
 @inproceedings{woo2026fromwordstocode,
   title = {From Words to Code: Do NLP Prompting Strategies Generalize to Code Generation?},
-  author = {Erin Woo and Sangyeop Yeo and Hyungkook Jun and Sangcheol Kim and Seung-won Hwang and Yu-Seung Ma},
+  author = {Woo, Erin and Yeo, Sangyeop and Jun, Hyungkook and Kim, Sangcheol and Hwang, Seung-won and Ma, Yu-Seung},
   booktitle = {FASE},
   year = {2026},
-  html = {xxx},
 }
 ```
 
